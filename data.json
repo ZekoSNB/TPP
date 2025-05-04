@@ -1,0 +1,114 @@
+{
+    "tests": [
+        {
+            "Frequency": 2,
+            "Voltage": 1,
+            "Temperature_min": 21.0,
+            "Temperature_max": 24.0,
+            "Temperature_avg": 22.12,
+            "Fibonacci": 24.36,
+            "cpu_test_single_thread": "18463",
+            "cpu_test_multi_thread": "72806"
+        },
+        {
+            "Frequency": 2.5,
+            "Voltage": 1,
+            "Temperature_min": 22.0,
+            "Temperature_max": 25.0,
+            "Temperature_avg": 23.63,
+            "Fibonacci": 19.45,
+            "cpu_test_single_thread": "23089",
+            "cpu_test_multi_thread": "90401"
+        },
+        {
+            "Frequency": 3,
+            "Voltage": 1,
+            "Temperature_min": 23.0,
+            "Temperature_max": 26.0,
+            "Temperature_avg": 24.43,
+            "Fibonacci": 16.2,
+            "cpu_test_single_thread": "27722",
+            "cpu_test_multi_thread": "109730"
+        },
+        {
+            "Frequency": 3.5,
+            "Voltage": 1.05,
+            "Temperature_min": 25.0,
+            "Temperature_max": 29.0,
+            "Temperature_avg": 26.74,
+            "Fibonacci": 13.89,
+            "cpu_test_single_thread": "32334",
+            "cpu_test_multi_thread": "128167"
+        },
+        {
+            "Frequency": 3.9,
+            "Voltage": 1.1,
+            "Temperature_min": 26.0,
+            "Temperature_max": 31.0,
+            "Temperature_avg": 28.42,
+            "Fibonacci": 12.42,
+            "cpu_test_single_thread": "36023",
+            "cpu_test_multi_thread": "142939"
+        },
+        {
+            "Frequency": 4,
+            "Voltage": 1.1,
+            "Temperature_min": 26.0,
+            "Temperature_max": 32.0,
+            "Temperature_avg": 28.81,
+            "Fibonacci": 12.21,
+            "cpu_test_single_thread": "36961",
+            "cpu_test_multi_thread": "146676"
+        },
+        {
+            "Frequency": 4.1,
+            "Voltage": 1.17,
+            "Temperature_min": 27.0,
+            "Temperature_max": 33.0,
+            "Temperature_avg": 30.63,
+            "Fibonacci": 12.13,
+            "cpu_test_single_thread": "37646",
+            "cpu_test_multi_thread": "150310"
+        },
+        {
+            "Frequency": 4.3,
+            "Voltage": 1.23,
+            "Temperature_min": 27.0,
+            "Temperature_max": 36.0,
+            "Temperature_avg": 32.95,
+            "Fibonacci": 11.86,
+            "cpu_test_single_thread": "39728",
+            "cpu_test_multi_thread": "157744"
+        },
+        {
+            "Frequency": 4.5,
+            "Voltage": 1.28,
+            "Temperature_min": 32.0,
+            "Temperature_max": 39.0,
+            "Temperature_avg": 35.51,
+            "Fibonacci": 10.6,
+            "cpu_test_single_thread": "41643",
+            "cpu_test_multi_thread": "165135"
+        },
+        {
+            "Frequency": 4.7,
+            "Voltage": 1.39,
+            "Temperature_min": 38.0,
+            "Temperature_max": 48.0,
+            "Temperature_avg": 41.49,
+            "Fibonacci": 9.77,
+            "cpu_test_single_thread": "43445",
+            "cpu_test_multi_thread": "172518"
+        },
+        {
+            "Frequency": 4.8,
+	    "Voltage": 1.42,
+            "Temperature_min": 41.0,
+            "Temperature_max": 51.0,
+            "Temperature_avg": 43.98,
+            "Fibonacci": 10.09,
+            "cpu_test_single_thread": "44279",
+            "cpu_test_multi_thread": "176083"
+        }
+    ]
+}
